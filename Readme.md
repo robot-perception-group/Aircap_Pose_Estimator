@@ -1,6 +1,6 @@
 # AeroPose
 
-![Alt](repo_asstes/teaser.png)
+![Alt](../../repo_asstes/teaser.png)
 
 Get this repo:
 `git clone https://github.com/robot-perception-group/aeropose.git`
