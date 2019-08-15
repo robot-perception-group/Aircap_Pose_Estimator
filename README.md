@@ -1,4 +1,4 @@
-# AeroPose
+# Aircap_Pose_Estimator
 
 ![Alt](https://github.com/robot-perception-group/aeropose/blob/master/repo_assets/teaser.png)
 
