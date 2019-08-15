@@ -1,9 +1,9 @@
 # Aircap_Pose_Estimator
 
-![Alt](https://github.com/robot-perception-group/aeropose/blob/master/repo_assets/teaser.png)
+![Alt](https://github.com/robot-perception-group/Aircap_Pose_Estimator/blob/master/repo_assets/teaser.png)
 
 Get this repo:
-`git clone https://github.com/robot-perception-group/aeropose.git`
+`git clone https://github.com/robot-perception-group/Aircap_Pose_Estimator.git`
 
 ### Data
 ###  ************************ TODO
@@ -20,17 +20,17 @@ Get this repo:
 	git checkout v0.1.0
 	python setup.py install
 	```
-- Download SMPL from [http://smpl.is.tue.mpg.de/] and extract its content in the parent directory _i.e._ __aeropose/__
+- Download SMPL from [http://smpl.is.tue.mpg.de/] and extract its content in the parent directory _i.e._ __Aircap_Pose_Estimator/__
 	
 	#### optional requirements 
 	- Mayavi for results visualization. Install Mayavi for Python2.7 from https://docs.enthought.com/mayavi/mayavi/installation.html#installing-with-pip
 
 
-### Run aeropose demo
-- run aeropose demo as in paper
+### Run Aircap_Pose_Estimator demo
+- run Aircap_Pose_Estimator demo as in paper
 	`python fittingscript.py /path/to/result/directory`
 - results will be saved in **/path/to/result/directory**. Mean error for each joint will be in the file **/path/to/result/directory/final_err_res.npy**
 - To visualize results, execute `python viz_res.py /path/to/result/directory` to launch the visualization of results alongwith the ground truth.
 
-### Change the aeropose parameters 
+### Change the Aircap_Pose_Estimator parameters 
 ### ****************************************TODO
