@@ -6,7 +6,7 @@ Get this repo:
 `git clone https://github.com/robot-perception-group/Aircap_Pose_Estimator.git`
 
 ### Data
-###  ************************ TODO
+###  Coming soon. Please visit this readme again in a few days.
 
 ### Install Requirements 
 - Python2.7
