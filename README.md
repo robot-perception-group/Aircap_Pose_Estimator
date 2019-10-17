@@ -6,7 +6,9 @@ Get this repo:
 `git clone https://github.com/robot-perception-group/Aircap_Pose_Estimator.git`
 
 ### Data
-###  Coming soon. Please visit this readme again in a few days.
+- Go to https://aircapdata.is.tue.mpg.de, register and login. 
+- Download AirCap-Pose_Estimator-minimaldata from https://aircapdata.is.tue.mpg.de/downloads
+- Extract the contents (directory named "data") to the repo dir.
 
 ### Install Requirements 
 - Python2.7
@@ -32,5 +34,3 @@ Get this repo:
 - results will be saved in **/path/to/result/directory**. Mean error for each joint will be in the file **/path/to/result/directory/final_err_res.npy**
 - To visualize results, execute `python viz_res.py /path/to/result/directory` to launch the visualization of results alongwith the ground truth.
 
-### Change the Aircap_Pose_Estimator parameters 
-### ****************************************TODO
